@@ -45,4 +45,4 @@
 - Email: [oitbirdmanpr@gmail.com](mailto:oitbirdmanpr@gmail.com)
 - Twitter/X: [@oit_birdman](https://x.com/oit_birdman)
 - Instagram: [@oitbirdman](https://instagram.com/oit_birdman)
-- GitHub: [@harry2480](https://github.com/oitbirdman)
+- GitHub: [@oitbirdman](https://github.com/oitbirdman)
